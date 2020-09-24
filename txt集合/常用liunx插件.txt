@@ -1,0 +1,8 @@
+http://javamall.com.cn/docs/
+
+
+help目录  商城使用说明
+deploy目录  商城部署说明包括集群
+dev目录   架构文档
+用户名：enation    
+ 密码：companypassword
